@@ -1,0 +1,8 @@
+*{
+    font-size: 18px;
+    color: black;
+}
+
+table tbody td {
+    text-align: left;
+}

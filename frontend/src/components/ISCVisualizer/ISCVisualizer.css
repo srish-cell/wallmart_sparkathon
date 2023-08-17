@@ -1,0 +1,12 @@
+.cards{
+    display: flex;
+    flex-direction: column;
+}
+
+/* .card-big{
+    margin: 5% 0;
+} */
+
+.card-big {
+    flex: 2 1 auto;
+}

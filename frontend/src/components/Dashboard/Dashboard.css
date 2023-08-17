@@ -1,0 +1,30 @@
+.grid-container{
+    display: grid;
+    /* min-height: 100vh; */
+    column-gap: 45px;
+    grid-template-columns: 5fr 15fr; 
+    grid-template-rows: auto;
+}
+
+.mode-icon{
+    margin-right: 25px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.filter-wrap{
+    border: 10px solid red;
+    /* position: fixed; */
+    /* height: 100vh;
+    width: 300px; */
+    /* min-height: 100vh; */
+}
+
+.charts-wrap{
+    border: 10px solid blue;
+}
+
+.search-wrap{
+    margin-right: 40px;
+}
