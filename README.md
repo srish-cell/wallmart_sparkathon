@@ -1,2 +1,1 @@
-**SPIT hackathon**
-
+**Walmart Sparkathon**
